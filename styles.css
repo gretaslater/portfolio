@@ -12,8 +12,6 @@
 
  
 
-    /* ADD THESE BACK */ 
-
    
 
   --navy: var(--bg); 
@@ -660,7 +658,7 @@ h3{margin:0 0 6px;color: var(--text);font-size:18px}
 
 .project-img{ 
 
-  width:160%; 
+  width:85%; 
 
   max-width:600px; 
 
@@ -698,9 +696,9 @@ h3{margin:0 0 6px;color: var(--text);font-size:18px}
 
   width:200px; 
 
-  height:200; 
+  height:200px; 
 
-  object-fit:contain; 
+  object-fit:auto; 
 
   background: rgba(255,255,255,.95); 
 
