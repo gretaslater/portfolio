@@ -22,7 +22,7 @@
 
   /* Accent */ 
 
-  --pink: #CBDFF2;        /* main accent */ 
+  --pink: #1F8FFF;      /* main accent */ 
 
   --pink-hover: #BBD5F0;
 
@@ -274,7 +274,7 @@ a{color:inherit;text-decoration:none}
 
 .btn-primary{ 
 
-  background: linear-gradient(135deg, var(--pink), #ff8fb3); 
+  background: linear-gradient(135deg, var(--pink), #479dff); 
 
   border: none; 
 
