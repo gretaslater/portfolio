@@ -4,11 +4,11 @@
 
   /* Core Dark Base */ 
 
-  --bg: #0C2340;          /* deep navy background */ 
+  --bg: #222E50;          /* deep navy background */ 
 
-  --soft: #081E34;        /* section background */ 
+  --soft: #1a4161;        /* section background */ 
 
-  --card: #0A2540;        /* panels/cards */ 
+  --card: #115471;        /* panels/cards */ 
 
  
  
@@ -22,11 +22,11 @@
 
   /* Accent */ 
 
-  --pink: #1F8FFF;      /* main accent */ 
+  --pink: #e9d985;      /* main accent */ 
 
-  --pink-hover: #BBD5F0;
+  --pink-hover: ##D3D9A3;
 
-  --pink-soft: #86AFD9;
+  --pink-soft: #bcd8c1;
 
  
 
@@ -34,9 +34,9 @@
 
   --text: #FFFFFF;        /* clean white */ 
 
-  --muted: #A9B7C6;       /* cool professional gray */ 
+  --muted: #efe3a9;       /* cool professional gray */ 
 
-  --line: rgba(255,255,255,.10); 
+  --line: #439A86; 
 
  
 
@@ -264,7 +264,7 @@ a{color:inherit;text-decoration:none}
 
   transform: translateY(-1px); 
 
-  box-shadow: 0 6px 16px rgba(0,0,0,.25); 
+  box-shadow: 0 6px 16px #007991; 
 
   border-color: var(--pink-hover); 
 
