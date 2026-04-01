@@ -449,6 +449,7 @@ h1{
   width: 100%; 
 
   max-width: 380px; 
+  height: 420px;
 
   background: var(--card); 
 
